@@ -7,7 +7,7 @@ library(GGally)
 library(reshape2)
 
 # Set the working directory to the folder where the CSV files are located
-setwd("C:/Users/M. Hamza Khalid/Desktop/World University ranking")
+setwd("C:/Users/Desktop/Gitworks/team-researcg/World University ranking")
 
 # Read in the datasets
 cwur_data <- read.csv("cwurData.csv")
